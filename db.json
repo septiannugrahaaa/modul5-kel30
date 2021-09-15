@@ -1,0 +1,31 @@
+{
+  "user":  [
+  {
+    "name": "NAMA",
+    "nim": "1",
+    "alamat": "semarang"
+  },
+  {
+      "name": "SAYA",
+      "nim": "2",
+      "alamat": "kosan"
+    },
+    {
+      "name": "ADALAH",
+      "nim": "3",
+      "alamat": "gkb"
+    },
+    {
+      "name": "SEPTIAN",
+      "nim": "4",
+      "alamat": "undip"
+    },
+    {
+      "name": "NUGRAHA",
+      "nim": "5",
+      "alamat": "gatau"
+    }
+
+] 
+
+}
